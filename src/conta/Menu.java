@@ -52,7 +52,6 @@ import java.util.Scanner;
 
             } while (opcao != 5);
 
-            leia.close();
         }
     
 }
